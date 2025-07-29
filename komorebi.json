@@ -1,0 +1,71 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.37/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 5,
+  "default_container_padding": 5,
+  "focus_follows_mouse": "Komorebi",
+  "mouse_follows_focus": false,
+  "animation": {
+    "enabled": true,
+    "duration": 350,
+    "style": "EaseOutBack",
+    "fps": 60
+  },
+  "border": false,
+  "border_implementation": "Windows",
+  "border_style": "System",
+  "border_width": 0,
+  "border_offset": 0,
+  "border_colours": {
+    "single": "#89b4fa", //#89b4fa
+    "stack": "#a6e3a1",
+    "monocle": "#f38ba8",
+    "floating": "#89b4fa",
+    "unfocused": "#10151D"
+  },
+  "global_work_area_offset": {
+    "top": -5,
+    "bottom": 0,
+    "left": 0,
+    "right": 0
+  },
+  "monitors": [
+    {
+      "workspaces": [
+        {"name": "👤", "layout": "BSP"},
+        {"name": "🎵", "layout": "VerticalStack"},
+	{"name": "🔍", "layout": "VerticalStack"},
+        {"name": ">_", "layout": "VerticalStack"},
+	{"name": "💻", "layout": "VerticalStack"}
+      ]
+    }
+  ],
+  "ignore_rules": [
+    {
+      "kind": "Title",
+      "id": "Gaming - Moonlight",
+      "matching_strategy": "Contains"
+    }
+  ],
+  "rules": [
+    {
+      "event": "OBJECT_NAMECHANGE",
+      "name_pattern": "Zen",
+      "action": "manage_window",
+      "properties": {
+        "focus": true,
+        "geometry": "maximize"
+      }
+    }
+  ],
+  "slow_application_identifiers": [
+    {
+      "id": "zen.exe",
+      "kind": "Exe",
+      "matching_strategy": "Equals"
+    }
+  ],
+  "slow_application_compensation_time": 50
+}

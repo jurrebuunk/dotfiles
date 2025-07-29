@@ -1,0 +1,27 @@
+dotfiles:
+
+cava
+fastfetch
+yasb
+whkdrc
+komorebi
+altsnap
+nvim
+fastfetch
+
+
+unusual config:
+
+komorebic-switcher
+powertoys
+zen
+tailscale
+sinology drive
+windhawk
+spotify
+
+
+extra scripts:
+
+wmstart
+themeswitcher
