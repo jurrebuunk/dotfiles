@@ -33,12 +33,6 @@ This repo contains config files for a wide range of tools. Only a few of them ar
 
 ---
 
-## ⚠️ Disclaimer
-
-Some of these tools are purely personal choices (e.g., `nvim`, `spotify`, `fastfetch`) and are not required for the rice to work. You can safely remove or skip them.
-
----
-
 ## 🚀 Installation
 
 To bootstrap the setup on a fresh Windows install:
@@ -51,22 +45,6 @@ chezmoi apply
 
 This installs only the core tools needed for the rice.
 Configs for the optional apps will still be placed in your system — if you install any of them later, they’ll be ready to go.
-
----
-
-🧠 Philosophy
-	•	Minimal background processes
-	•	No Electron-based tools unless absolutely necessary
-	•	Fluent UI where possible
-	•	Instant, global hotkeys and tiling behavior
-	•	Zero-config startup
-
----
-
-📂 Structure
-
-Chezmoi handles all the setup logic. Each tool has its config in a separate folder or .tmpl file under ~/.local/share/chezmoi.
-Most scripts and keybinds assume PowerShell and Windows-native paths.
 
 ---
 
