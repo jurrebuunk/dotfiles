@@ -2,7 +2,9 @@
 
 These are my personal dotfiles for transforming Windows 11 into a clean, keyboard-driven environment — heavily inspired by modern Linux rices using **Hyprland**, **Waybar**, and **rofi**, but designed around the aesthetics and constraints of Windows.
 
-<img width="2559" height="1079" alt="Screenshot 2025-07-29 170216" src="https://github.com/user-attachments/assets/5e87bb02-bef1-4376-a7e1-601853719320" />
+<img width="2559" height="1079" alt="Screenshot 2025-08-17 234717" src="https://github.com/user-attachments/assets/52523f4e-efeb-47de-974d-288a8d623789" />
+
+<img width="2559" height="1079" alt="Screenshot 2025-08-17 234643" src="https://github.com/user-attachments/assets/c166bd67-67b0-41fe-b786-6ba6e994524e" />
 
 The goal: a lightweight setup that respects the Fluent Design language while enabling fast, scriptable workflows with as little overhead as possible.
 
