@@ -14,8 +14,7 @@ This repo contains config files for a wide range of tools. Only a few of them ar
 
 ### 🧩 Core tools (installed automatically):
 - `komorebi` – dynamic tiling window manager
-- `windhawk` – runtime Windows modding framework mainly for taskbar and consistancy
-- `komorebic-switcher` – UI on taskbar for displaying workspaces
+- `yasb` - sleet and fast topbar 
 - `altsnap` – window snapping enhancements
 - `powertoys` – Microsoft’s power-user tools
 - `whkdrc` – lightweight hotkey daemon
@@ -28,8 +27,6 @@ This repo contains config files for a wide range of tools. Only a few of them ar
 - `spotify` – music player
 - `tailscale` – VPN mesh network
 - `synology drive` – synced cloud storage
-- `wmstart` – session startup manager
-- `themeswitcher` – automatic dark/light theming
 
 ---
 
