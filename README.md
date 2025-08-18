@@ -17,8 +17,8 @@ This repo contains config files for a wide range of tools. Only a few of them ar
 ### 🧩 Core tools (installed automatically):
 - `komorebi` – dynamic tiling window manager
 - `yasb` - sleet and fast topbar 
-- `altsnap` – better window resizing and movement
-- `powertoys` – for the awesome built in app launcher
+- ~~`altsnap` – better window resizing and movement~~
+- ~~`powertoys` – for the awesome built in app launcher~~
 - `whkdrc` – lightweight hotkey daemon
 
 ### 🎛️ Optional tools (configs included, but not installed):
