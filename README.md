@@ -22,13 +22,13 @@ This repo contains config files for a wide range of tools. Only a few of them ar
 - `whkdrc` – lightweight hotkey daemon
 
 ### 🎛️ Optional tools (configs included, but not installed):
-- `nvim` – text/code editor
+- ~~`nvim` – text/code editor~~
 - `cava` – audio visualizer
 - `fastfetch` – system info display
-- `zen` – minimalist firefox based browser
-- `spotify` – music player
-- `tailscale` – VPN mesh network
-- `synology drive` – synced network storage client
+- ~~`zen` – minimalist firefox based browser~~
+- ~~`spotify` – music player~~
+- ~~`tailscale` – VPN mesh network~~
+- ~~`synology drive` – synced network storage client~~
 
 ---
 
